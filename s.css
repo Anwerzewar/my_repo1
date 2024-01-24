@@ -5,7 +5,7 @@
          font-family:'amiri',serif;
 }
  body{
-background-image: url(ap.jpg);
+background-image: url(backe.jpg);
 background-size: cover;
  }  
  .img{
@@ -38,23 +38,49 @@ width: 450px;
 height: 340px;
 margin-left: 33%;
    }
+ .father2{
+
+display: flex;
+flex-direction: column;
+
+margin-top: -22%;
+width: 450px;
+height: 340px;
+margin-left: 99%;
+   }
    .ts{
     text-align: center;
     border-radius: 80px;
     margin-left: 88%;
     border: 2px solid white;
-    margin-top: -22%;
+    margin-top: -72%;
 
   }
  .a2{
     
   font-weight: bolder;
-  font-size: 20px;
+  font-size: 10px;
 text-align: center;
 background-color: rgba(0,0,0,.5);
 color: rgb(249, 249, 250);
-width: 400px;
-height: 50px;
+width: 200px;
+height: 10px;
+border: 3px rgb(85, 138, 236);
+border-radius: 10px;
+border-left-style: ridge;
+border-bottom-style: ridge;
+margin-bottom: 40px;
+ }
+
+ .a0{
+    
+  font-weight: bolder;
+  font-size: 10px;
+text-align: center;
+background-color: rgba(0,0,0,.5);
+color: rgb(249, 249, 250);
+width: 200px;
+height: 10px;
 border: 3px rgb(85, 138, 236);
 border-radius: 10px;
 border-left-style: ridge;
